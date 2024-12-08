@@ -1,6 +1,2 @@
 # Fine-tunning Bert for TextClassfication
-This repository contains Jupyter notebooks for fine-tuning BERT models for specific NLP tasks:
-
-Medical Transcripts Question Answering (MTQA)
-Cybersecurity Named Entity Recognition (CyberNER)
-The notebooks provide step-by-step guidance on loading pre-trained BERT models, preparing datasets, and fine-tuning for these specific tasks.
+이 리포지토리에는 텍스트 분류 (Text Classification) task을 위한 BERT 모델의 파인튜닝을 위한 Jupyter 노트북이 포함되어 있습니다
